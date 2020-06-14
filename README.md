@@ -4,6 +4,8 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `lo`/`hi`
 - `up`/`dn`
 - `rd`/`wr`
+- `fd`/`bk`
+- `rt`/`lt`
 - `beg`/`end`
 - `lhs`/`rhs` *(left/right hand side)*
 - `src`/`dst`
